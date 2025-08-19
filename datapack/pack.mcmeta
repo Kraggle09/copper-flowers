@@ -1,6 +1,7 @@
 {
-    "pack": {
-        "pack_format": 81,
-        "description": "Test pack"
-    }
+  "pack": {
+    "description": "Copper Flowers",
+    "min_format": [84, 0],
+    "max_format": [84, 999999]
+  }
 }
