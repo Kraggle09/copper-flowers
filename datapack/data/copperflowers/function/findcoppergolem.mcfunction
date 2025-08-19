@@ -16,3 +16,6 @@ execute if items entity @s weapon.mainhand pink_tulip as @n[type=copper_golem] r
 execute if items entity @s weapon.mainhand red_tulip as @n[type=copper_golem] run function copperflowers:plantredtulip
 execute if items entity @s weapon.mainhand white_tulip as @n[type=copper_golem] run function copperflowers:plantwhitetulip
 execute if items entity @s weapon.mainhand wither_rose as @n[type=copper_golem] run function copperflowers:plantwitherrose
+execute if items entity @s weapon.mainhand lilac as @n[type=copper_golem] run function copperflowers:plantlilac
+execute if items entity @s weapon.mainhand peony as @n[type=copper_golem] run function copperflowers:plantpeony
+execute if items entity @s weapon.mainhand rose_bush as @n[type=copper_golem] run function copperflowers:plantrosebush

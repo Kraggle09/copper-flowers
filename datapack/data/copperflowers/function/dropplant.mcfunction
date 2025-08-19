@@ -14,3 +14,6 @@ execute if items entity @s armor.head white_tulip at @s run summon minecraft:ite
 execute if items entity @s armor.head wither_rose at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_rose",count:1}}
 execute if items entity @s armor.head oxeye_daisy at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxeye_daisy",count:1}}
 execute if items entity @s armor.head torchflower at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:torchflower",count:1}}
+execute if items entity @s armor.head peony at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:peony",count:1}}
+execute if items entity @s armor.head lilac at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lilac",count:1}}
+execute if items entity @s armor.head rose_bush at @s run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rose_bush",count:1}}
